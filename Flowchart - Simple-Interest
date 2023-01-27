@@ -1,9 +1,0 @@
-/*
-Flowchart to Calculate SI
-
-1. Start
-2. Read Input: P,R,T
-3. Process: SI = P*R*T
-4 Print Output: SI
-5. End
-*/
