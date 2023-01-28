@@ -1,0 +1,12 @@
+#Pseudocode - Take Input N, followed by N inputs
+find the Sum of N Numbers that are given as input
+
+read N
+Sum =0, i=1
+while(i<=N){
+            read val
+            Sum = Sum + val
+            i = i + 1
+           }
+print Sum
+exit
