@@ -1,0 +1,16 @@
+#Pseudocode  - Find GCD of two Numbers A and B
+
+read A,B
+i=2, GCD =1
+while(i<= min(A,B))
+          {
+                    if(A % i ==0 and B % i == 0)
+                    {
+                      GCD = i;
+                    }
+             i = i+1
+         }
+print GCD
+exit
+                      
+                          
