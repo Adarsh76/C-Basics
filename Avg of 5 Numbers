@@ -1,0 +1,6 @@
+#Pseudocode - to input marks in 5 subjects and find their average.
+
+read m1, m2, m3, m4, m5
+avg = ( m1 + m2 +m3 + m4 + m5 ) / 5
+print avg
+exit
